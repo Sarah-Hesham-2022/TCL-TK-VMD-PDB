@@ -1,4 +1,4 @@
-# TCL-TK
+# TCL-TK-VMD-PDB
 TCL-TK for VMD Processing PDB files.
 
 Main Program:
